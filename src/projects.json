@@ -1,0 +1,253 @@
+[
+  {
+    "title": "Project1-Traveler's-Insider!",
+    "description": [
+   
+    ],
+    "technologies": [
+     
+    ],
+    "images": [
+      {
+        "url": "/img/Traveler's-Insider!.png"
+       
+      }
+    ],
+    "deployed": "https://ilyublinsky.github.io/group-project/index.html",
+    "repo": "https://github.com/ilyublinsky/local-travel-guide-app"
+  },
+  {
+    "title": "PetSeekerPalooza-Project 2",
+    "description": [
+      
+    ],
+    "technologies": [
+      
+    ],
+    "images": [
+      {
+        "url": "/img/PetSeekerPalooza.png"
+   
+      }
+     
+    ],
+    "deployed": "https://shrouded-lake-69367.herokuapp.com/",
+    "repo": "https://github.com/ShaylaStevenson/PetSeekerPalooza"
+  },
+  {
+    "title": "Weather Dashboard",
+    "description": [
+     
+    ],
+    "technologies": [
+     
+    ],
+    "images": [
+      {
+        "url": "/img/Weather.png"
+       
+      }
+    ],
+    "deployed": "https://matachemarius.github.io/Weather-API/",
+    "repo": "https://github.com/MatacheMarius/Weather-API"
+  },
+  {
+    "title": "Password Generator",
+    "description": [
+     
+    ],
+    "technologies": [
+      
+    ],
+    "images": [
+      {
+        "url": "/img/Password.png"
+       
+      }
+    ],
+    "deployed": "https://matachemarius.github.io/H3_Password_Generator/",
+    "repo": "https://github.com/MatacheMarius/H3_Password_Generator"
+  },
+  {
+    "title": "Javascript Quiz",
+    "description": [
+
+    ],
+    "technologies": [
+     
+    ],
+    "images": [
+      {
+        "url": "/img/quiz.png"
+        
+      }
+    ],
+    "deployed": "https://matachemarius.github.io/Quiz-Game-JS/",
+    "repo": "https://github.com/MatacheMarius/Quiz-Game-JS"
+  },
+  {
+    "title": "Workday Planner",
+    "description": [
+     
+    ],
+    "technologies": [
+      
+    ],
+    "images": [
+      {
+        "url": "/img/Planner.png"
+    
+      }
+    ],
+    "deployed": "https://matachemarius.github.io/Day-Planner/",
+    "repo": "https://github.com/MatacheMarius/Day-Planner"
+  },
+
+{
+  "title": "E-Commerce",
+  "description": [
+
+  ],
+  "technologies": [
+
+  ],
+  "images": [
+    {
+      "url": "/img/E Commerce.png"
+    
+    }
+  ],
+  "deployed": "https://www.youtube.com/watch?v=DmdJJyk7-iw&ab_channel=pokerchampion",
+  "repo": "https://github.com/MatacheMarius/E-Commerce"
+},
+
+{
+  "title": "Employee Database",
+  "description": [
+ 
+  ],
+  "technologies": [
+  
+  ],
+  "images": [
+    {
+      "url": "/img/Employee-Database.png"
+  
+    }
+  ],
+  "deployed": "https://www.youtube.com/watch?v=tu2VYQrYMF0&ab_channel=pokerchampion",
+  "repo": "https://github.com/MatacheMarius/Employee-Database"
+},
+
+{
+  "title": "Readme Generator",
+  "description": [
+
+  ],
+  "technologies": [
+  
+  ],
+  "images": [
+    {
+      "url": "/img/Readme.png"
+      
+    }
+  ],
+  "deployed": "https://matachemarius.github.io/Readme-Generator/",
+  "repo": "https://github.com/MatacheMarius/Readme-Generator"
+},
+
+{
+  "title": "NodeTraker",
+  "description": [
+  
+  ],
+  "technologies": [
+  
+  ],
+  "images": [
+    {
+      "url": "/img/NoteTaker.png"
+    
+    }
+  ],
+  "deployed": "https://note-------taker.herokuapp.com/",
+  "repo": "https://github.com/MatacheMarius/NodeTraker"
+},
+
+{
+  "title": "Team Profile Generator",
+  "description": [
+
+  ],
+  "technologies": [
+   
+  ],
+  "images": [
+    {
+      "url": "/img/Profile-Generator.png"
+    }
+  ],
+  "deployed": "https://www.youtube.com/watch?v=eb_H0oWb4kA&ab_channel=pokerchampion",
+  "repo": "https://github.com/MatacheMarius/Team-Profile-Generator"
+},
+
+{
+  "title": "Employee-Directory",
+  "description": [
+ 
+  ],
+  "technologies": [
+  
+  ],
+  "images": [
+    {
+      "url": "/img/Employee-Directory.png"
+     
+    }
+   
+  ],
+  "deployed": "https://github.com/MatacheMarius/Employee-Directory",
+  "repo": "https://matachemarius.github.io/Employee-Directory/"
+},
+
+{
+  "title": "Workout-Tracker",
+  "description": [
+ 
+  ],
+  "technologies": [
+  
+  ],
+  "images": [
+    {
+      "url": "/img/FitnessTraker.png"
+     }
+  
+  ],
+  "deployed": "https://desolate-mesa-66251.herokuapp.com/?id=60969650d8fc270015dc4a6e",
+  "repo": "https://github.com/MatacheMarius/Workout-Tracker-"
+},
+
+{
+  "title": "Budget-Tracker",
+  "description": [
+ 
+  ],
+  "technologies": [
+  
+  ],
+  "images": [
+    {
+      "url": "/img/Budget-Tracker.png"
+     
+    }
+   
+  ],
+  "deployed": "https://budget--trackers.herokuapp.com/",
+  "repo": "https://github.com/MatacheMarius/Budget-Trackers"
+}
+]
+
+
+
